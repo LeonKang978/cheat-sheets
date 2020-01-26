@@ -1,12 +1,9 @@
 alt
 
-i3 Reference Card
+i3 Reference Card - Modified so that can be read as plaintext
 
 http://i3wm.org/docs/userguide.html
 
-Throughout this guide, the i3 logo will be used to refer to the configured
-modifier. This is the alt key (Mod1) by default, with super/ (Mod4) being a
-popular alternative.
 
 Basics
 
