@@ -1,0 +1,70 @@
+alt
+
+i3 Reference Card
+
+http://i3wm.org/docs/userguide.html
+
+Throughout this guide, the i3 logo will be used to refer to the configured
+modifier. This is the alt key (Mod1) by default, with super/ (Mod4) being a
+popular alternative.
+
+Basics
+
+alt + enter open new terminal
+alt + k focus left
+alt + k focus down
+alt + l focus up
+alt + ; focus right
+alt + a focus parent
+alt + spacebar toggle focus mode
+
+Moving windows
+
+alt + up + j move window left
+alt + up + k move window down
+alt + up + l move window up
+alt + up + ; move window right
+
+Modifying windows
+
+alt + f toggle fullscreen
+alt + v split a window vertically
+alt + h split a window horizontally
+alt + r resize mode
+
+Look at the “Resizing containers / windows” section of the user guide.
+
+Changing the container layout
+
+alt + e  default
+alt + s  stacking
+alt + w  tabbed
+
+Floating
+
+alt + up + spacebar toggle floating
+alt + LMB     drag floating
+
+Using workspaces
+
+alt + 0-9     switch to another workspace
+alt + up + 0-9 move a window to another workspace
+
+Opening applications / Closing windows
+
+alt + d     open application launcher (dmenu)
+alt + up + q kill a window
+
+Restart / Exit
+
+alt + up + c reload the configuration file
+alt + up + r restart i3 inplace
+alt + up + e exit i3
+
+Copyright © 2012, Michael Stapelberg
+All rights reserved
+Designed by Zeus Panchenko, updated by Moritz Bandemer
+
+Permission is granted to copy, distribute and/or modify this document provided
+the copyright notice and this permission notice are preserved on all copies.
+
